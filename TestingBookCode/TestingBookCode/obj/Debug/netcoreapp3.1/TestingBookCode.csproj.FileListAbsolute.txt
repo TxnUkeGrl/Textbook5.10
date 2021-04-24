@@ -1,0 +1,13 @@
+D:\GCProjects\TestingBookCode\TestingBookCode\bin\Debug\netcoreapp3.1\TestingBookCode.exe
+D:\GCProjects\TestingBookCode\TestingBookCode\bin\Debug\netcoreapp3.1\TestingBookCode.deps.json
+D:\GCProjects\TestingBookCode\TestingBookCode\bin\Debug\netcoreapp3.1\TestingBookCode.runtimeconfig.json
+D:\GCProjects\TestingBookCode\TestingBookCode\bin\Debug\netcoreapp3.1\TestingBookCode.runtimeconfig.dev.json
+D:\GCProjects\TestingBookCode\TestingBookCode\bin\Debug\netcoreapp3.1\TestingBookCode.dll
+D:\GCProjects\TestingBookCode\TestingBookCode\bin\Debug\netcoreapp3.1\TestingBookCode.pdb
+D:\GCProjects\TestingBookCode\TestingBookCode\obj\Debug\netcoreapp3.1\TestingBookCode.csprojAssemblyReference.cache
+D:\GCProjects\TestingBookCode\TestingBookCode\obj\Debug\netcoreapp3.1\TestingBookCode.AssemblyInfoInputs.cache
+D:\GCProjects\TestingBookCode\TestingBookCode\obj\Debug\netcoreapp3.1\TestingBookCode.AssemblyInfo.cs
+D:\GCProjects\TestingBookCode\TestingBookCode\obj\Debug\netcoreapp3.1\TestingBookCode.csproj.CoreCompileInputs.cache
+D:\GCProjects\TestingBookCode\TestingBookCode\obj\Debug\netcoreapp3.1\TestingBookCode.dll
+D:\GCProjects\TestingBookCode\TestingBookCode\obj\Debug\netcoreapp3.1\TestingBookCode.pdb
+D:\GCProjects\TestingBookCode\TestingBookCode\obj\Debug\netcoreapp3.1\TestingBookCode.genruntimeconfig.cache
